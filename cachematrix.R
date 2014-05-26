@@ -1,3 +1,5 @@
+# R Programming - Programming Assignment 2: Lexical Scoping
+
 ## Put comments here that give an overall description of what your
 ## functions do
 # Below is a pair of functions that cache the inverse of a matrix.  Matrix inversion is usually a costly computation and their may be some benefit to caching the inverse of a matrix rather than compute it repeatedly.
