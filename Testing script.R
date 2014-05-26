@@ -1,3 +1,5 @@
+# Testing script obtained from https://class.coursera.org/rprog-003/forum/thread?thread_id=650
+
 amatrix = makeCacheMatrix(matrix(c(1,2,3,4), nrow=2, ncol=2))
 amatrix$get()         # Returns original matrix
 cacheSolve(amatrix)   # Computes, caches, and returns    matrix inverse
